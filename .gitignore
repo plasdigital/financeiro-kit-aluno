@@ -1,0 +1,11 @@
+# segredo e dado financeiro nunca entram no git
+.env
+.env.local
+.env.*.local
+node_modules/
+*.csv
+*.ofx
+*.xlsx
+faturas/
+extratos/
+saidas/

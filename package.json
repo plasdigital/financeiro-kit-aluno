@@ -1,0 +1,15 @@
+{
+  "name": "financeiro-open-finance",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "testar": "node scripts/testar-pluggy.mjs",
+    "migrate": "node scripts/migrar.mjs",
+    "sincronizar": "node scripts/sincronizar-pluggy.mjs",
+    "conferir": "node scripts/conferir.mjs",
+    "sql": "node scripts/sql.mjs"
+  },
+  "dependencies": {
+    "pg": "^8.13.1"
+  }
+}
