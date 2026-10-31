@@ -5,7 +5,7 @@ respondendo em português: *"quanto entrou e quanto saiu esse mês?"*, *"pra ond
 em julho?"*, *"quanto eu paguei de juros no ano?"*.
 
 **Baixe a pasta, abra o Claude Code (ou o Codex) dentro dela e diga: _"me ajuda a configurar"_.**
-O agente lê o `CLAUDE.md` e conduz o resto com você.
+O agente lê o `AGENTS.md` e conduz o resto com você.
 
 ## O que esta pasta faz
 
@@ -33,7 +33,7 @@ O agente lê o `CLAUDE.md` e conduz o resto com você.
 1. **[COMECE-AQUI.md](COMECE-AQUI.md)**: a configuração, passo a passo, uma vez só.
 2. **[docs/00-a-aula.md](docs/00-a-aula.md)**: o porquê de cada decisão e as travas, que são o
    que dá errado e o conserto de cada uma.
-3. `CLAUDE.md` é o manual do agente. Você não precisa ler, mas pode.
+3. `AGENTS.md` é o manual do agente. Você não precisa ler, mas pode.
 
 ## A regra de segurança
 
